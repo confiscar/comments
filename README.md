@@ -1,2 +1,1 @@
-# comments
-Repository that contains all comments for my blog: confiscar.github.io
+This comment system is powered by [Giscus](https://giscus.app/).
